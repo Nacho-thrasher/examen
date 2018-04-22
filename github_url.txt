@@ -1,0 +1,8 @@
+inicio:
+file:///C:/Users/Usuario/Desktop/examen/index.html
+
+educacion:
+file:///C:/Users/Usuario/Desktop/examen/educacion.html
+
+experiencia:
+file:///C:/Users/Usuario/Desktop/examen/experiencia.html
